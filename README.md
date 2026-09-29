@@ -1,7 +1,6 @@
 # 🤖 Multiverse AI Agent Backend
 
 A modern, production-ready **FastAPI backend** for a Multiverse AI Agent powered by **Google Gemini AI**.
-
 The backend provides REST APIs, real-time streaming responses, environment-based configuration, and interactive API documentation.
 
 ---
@@ -91,7 +90,7 @@ Create a `.env` file inside the backend folder.
 APP_NAME=Multiverse AI Agent Backend
 APP_VERSION=0.1.0
 
-HOST=0.0.0.0
+HOST=0.0.0.0      
 PORT=8000
 
 GEMINI_API_KEY=YOUR_API_KEY
